@@ -1,4 +1,6 @@
-## Hey, I'm Tyler, a First Year Data Science Student at Saddleback Community College
+## Hey, I'm Tyler
+
+First-year Data Science student at Saddleback College
 
 ![GitHub followers](https://img.shields.io/github/followers/tylervovan?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/tylervovan?affiliations=OWNER%2CCOLLABORATOR&style=social)
