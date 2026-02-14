@@ -1,6 +1,6 @@
 ## Hey, I'm Tyler
 
-First-year Data Science student at Saddleback College
+I'm Tyler. Currently studying Data Science at Saddleback College. This year I've integrated Foxglove into SC Robotics, launched a vertical business, and am building trading tools for Polymarket. Presenting my research on informed trading at the Bay Honors Symposium at Stanford this May. Always down to chat about prediction markets, robotics, or poker.
 
 ![GitHub followers](https://img.shields.io/github/followers/tylervovan?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/tylervovan?affiliations=OWNER%2CCOLLABORATOR&style=social)
