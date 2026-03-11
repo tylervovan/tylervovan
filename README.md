@@ -17,10 +17,6 @@ I'm Tyler. Currently studying Data Science at Saddleback College. This year I've
 
 [![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://ros.org)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
-[![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
-[![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 **Developer Tools**
 
@@ -36,15 +32,14 @@ I'm Tyler. Currently studying Data Science at Saddleback College. This year I've
 [![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com)
 [![RevenueCat](https://img.shields.io/badge/RevenueCat-F25A5A?style=for-the-badge&logo=revenuecat&logoColor=white)](https://revenuecat.com)
 [![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white)](https://posthog.com)
-[![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=zustand&logoColor=white)](https://github.com/pmndrs/zustand)
 
 ### Currently
 
 - **SC Robotics** — Mars rover software (ROS 2, Mission Control GUI)
 - **Peptide Place** — B2B2C marketplace (Technical Cofounder)
-- **Kopycat** — Prediction market copy trading research
 
 ### Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tylervovan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tyler-vovan/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tylernvovan@gmail.com)
