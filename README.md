@@ -5,7 +5,7 @@ I'm Tyler. Currently studying Data Science at Saddleback College. This year I've
 ![GitHub followers](https://img.shields.io/github/followers/tylervovan?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/tylervovan?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Languages**
 
